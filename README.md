@@ -1,6 +1,6 @@
 # About
-A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. <br>
-The project is a critical response to a critique of the paintings published by The Interior Review. The goal is to assess whether the conclusions of said critique are supported by the actual RGB (and HSV) content of the paintings. <br>
+A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. <br><br>
+The project is a critical response to a critique of the paintings published by The Interior Review. The goal is to assess whether the conclusions of said critique are supported by the actual RGB (and HSV) content of the paintings. <br><br>
 The project is presented as a dashboard/web app built with Streamlit, a popular framework that builts a webpage and renders visualizations made with other Python libraries using entirely Python code, requiring no HTML, CSS, or JavaScript. 
 
 ### Visualizations
