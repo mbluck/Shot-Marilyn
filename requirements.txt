@@ -1,0 +1,9 @@
+base64
+plotly.express
+plotly.figure_factory
+pandas
+cv2
+numpy
+itertools
+
+streamlit run c:/Users/Melanie/OneDrive/Projects/Marilyn/app.py
