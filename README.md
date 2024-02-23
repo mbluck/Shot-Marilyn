@@ -6,7 +6,7 @@ The project is presented as a dashboard/web app built with Streamlit, a popular 
 ### Visualizations
 Simple histograms of the R, G, and B components of each pixel don't reveal much, as each value is only meaningful when combined with the other two. Instead, the color space of each painting is analyzed by plotting each pixel in a 3D graph with R, G, and B as the axes. To allow the user to see the entire distribution, the visualization is animated such that it rotates about the Y axis, and saved as a GIF. The graphs all rotate simultaneously so that the user can directly compare the distributions. <br><br>
 
-The images are converted to the HSV color space so that their Saturation, Value (darkness/lightness), and Hue can be compared. Histograms of these values reveal differences and similarities between the paintings. The original photo upon which the paintings are based is also included. <br><br>
+The images are converted to the HSV color space so that their Saturation, Value (darkness/lightness), and Hue can be compared. Histograms of these values reveal differences and similarities between the paintings. Grayscale value distributions are shown as spectra. The original photo upon which the paintings are based is also included. <br><br>
 
 Finally, the average color is taken from each section of the painting (eye, lip, skin, hair, etc). They are displayed in a grid such that one can directly compare the color palette of each image. 
 
